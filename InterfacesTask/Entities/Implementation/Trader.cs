@@ -1,6 +1,6 @@
 using InterfacesTask.Items;
 
-namespace InterfacesTask.Entities
+namespace InterfacesTask.Entities.Implementaion
 {
     class Trader : Entity, ITrader
     {

@@ -1,4 +1,4 @@
-namespace InterfacesTask.Items
+namespace InterfacesTask.Items.Implementaion
 {
     class Sword : Item, IWeapon
     {
